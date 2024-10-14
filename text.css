@@ -1,3 +1,14 @@
 html{
-    font-family: cursive, serif, sans-serif, monospace, cursive, fantasy;
+    /* font-family: cursive, serif, sans-serif, monospace, cursive, fantasy; */
+    font-family: "Oswald", sans-serif;
+    font-weight:400;
+    font-size:16px;
+    /* font-size: 10vw; */
+    /* font-size:10vh; */
+    /* color: rgb(128,0,128); */
+    color:  #a34343;
+}
+
+#site-title{
+    font-size:3rem;
 }
